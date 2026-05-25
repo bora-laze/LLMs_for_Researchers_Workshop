@@ -1,0 +1,36 @@
+SCATTERED NOTES - sleep project
+================================
+
+(typed up from my notebook, sorry it's messy)
+
+- Roberts & Davis 2022 meta-analysis is probably the anchor citation
+- two big themes emerging:
+    1) sleep DURATION effects (quantity)
+    2) sleep QUALITY / efficiency effects
+  - quality seems to matter MORE than duration in several studies
+- mediators to think about:
+    * mental health (Brown & Wilson)
+    * working memory (Tanaka et al.)
+    * caffeine (Chen & Wang)
+    * smartphone use (Nguyen & Pham)
+- moderators / boundary conditions:
+    * year of study (Roberts meta-analysis - bigger effects in 1st years)
+    * chronotype × class timing (Hernández-Ruiz)
+    * working students (Reyes & Cruz)
+
+TODO:
+- check if Paper 9 (sleep apnea screening) belongs - it's about prevalence
+  not about academic outcomes. Probably drop?
+- I think I have Andersson 2018 saved twice - need to deduplicate
+- need to write the methods section for my own pilot study
+- email Dr. K about whether to include the Ramadan study (Khan & Ahmed)
+  -- it's interesting but might be a niche case
+
+key questions for review:
+- does intervention work? (only one intervention study - Okafor)
+- is sleep duration causal or just a marker for other things (mental health)?
+- can we say anything about WHAT level of sleep matters most?
+    * cumulative weekly sleep > night-before sleep (Goldberg & Stein)
+
+random thought - I should probably structure my own pilot
+to measure BOTH duration and quality, not just hours.

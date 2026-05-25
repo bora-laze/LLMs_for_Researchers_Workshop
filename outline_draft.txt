@@ -1,0 +1,36 @@
+Lit Review Outline - DRAFT v0.2
+================================
+
+Title: Sleep and academic performance in university students:
+       A narrative review
+
+1. Introduction
+   - why this matters (transition to university, sleep changes)
+   - existing reviews & meta-analyses
+   - what's still unclear
+
+2. Sleep duration and academic outcomes
+   - [need to fill in - cite Andersson, Smith, Reyes here?]
+
+3. Sleep quality vs. duration
+   - [Roberts meta-analysis main point]
+   - [Brown & Wilson on quality]
+
+4. Mediators
+   - mental health
+   - cognitive function / working memory
+   - lifestyle factors (caffeine, smartphones)
+
+5. ???
+
+6. Methods (pilot study)
+   - [HAVEN'T WRITTEN YET]
+   - need: design, sample, measures, planned analyses
+
+7. Discussion / future directions
+
+NOTES TO SELF:
+- structure is rough, will firm up after I extract the papers properly
+- need a summary table - one row per study with key info
+- the methods section is the most urgent thing to draft for the
+  committee meeting next month
